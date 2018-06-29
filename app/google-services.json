@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "338644185521",
+    "firebase_url": "https://meetup-3a5ef.firebaseio.com",
+    "project_id": "meetup-3a5ef",
+    "storage_bucket": "meetup-3a5ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338644185521:android:b0dfc564897ebe5c",
+        "android_client_info": {
+          "package_name": "fyp.meetup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338644185521-siofg82fiia0cjo663svskbgbq9657df.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fyp.meetup",
+            "certificate_hash": "6b5942c82e977853ffcb203dea14d6d42222900a"
+          }
+        },
+        {
+          "client_id": "338644185521-umunvmgh3nb9j1qge44p9qn5llfdbaii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJwb_QYelS-hirjCRxiSKeNNRZtu6-Zww"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338644185521-umunvmgh3nb9j1qge44p9qn5llfdbaii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
